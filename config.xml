@@ -6,10 +6,10 @@
         id        = "com.phonegap.parking"
         version   = "1.0.0">
 
-    <name>Parking</name>
+    <name>Ofertas</name>
 
     <description>
-        Parking movil
+        Ofertas moviles
     </description>
 
     <author href="http://phonegap.com" email="soporte@danielrivarola.com.ar">
